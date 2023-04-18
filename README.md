@@ -44,7 +44,6 @@
 
 - 👨‍💻 All of my projects are available at [my personal portfolio website](https://shash-b.github.io/projects.html)
 
-
 ---
 
 <h3 align="center">Connect with me:</h3>
