@@ -28,6 +28,19 @@
 <br><br>
 </p>
 
+<p>
+<table>
+<tr>
+<td>
+<a href="https://github.com/shash-b/TaskTastic"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=shash-b&repo=TaskTastic&show_icons=true&bg_color=030d22&title_color=ff2e97&icon_color=0ef3ff&text_color=ffd400&border_color=ff2e97&show_owner=true" alt="TaskTastic"> </a>
+</td>
+<td>
+<a href="https://github.com/shash-b/web50-search"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=shash-b&repo=web50-search&show_icons=true&bg_color=030d22&title_color=ff2e97&icon_color=0ef3ff&text_color=ffd400&border_color=ff2e97&show_owner=true" alt="web50-search"> </a>
+</td>
+</tr>
+</table>
+</p>
+
 ---
 
 - 🔭 I’m currently working on [Java](https://github.com/shash-b/java-school-programs)
