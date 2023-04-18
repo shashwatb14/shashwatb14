@@ -28,8 +28,10 @@
 <br><br>
 </p>
 
+<p><h3 align="center">Best repositories</h3></p>
+
 <p>
-<table>
+<table border="0">
 <tr>
 <td>
 <a href="https://github.com/shash-b/TaskTastic"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=shash-b&repo=TaskTastic&show_icons=true&bg_color=030d22&title_color=ff2e97&icon_color=0ef3ff&text_color=ffd400&border_color=ff2e97&show_owner=true" alt="TaskTastic"> </a>
