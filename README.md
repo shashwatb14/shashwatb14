@@ -13,7 +13,7 @@
     - ⚡ Fun fact: ...
     -->
 
-![Banner](coding_wallpaper.png)
+![Banner](coding_wallpaper.jpg)
 <h1 align="center">Hi there 👋, I'm Shashwat</h1>
 <h3 align="center">An aspiring computer scientist</h3>
 
