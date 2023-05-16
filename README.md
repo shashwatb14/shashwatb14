@@ -36,7 +36,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Java](https://github.com/shash-b/java-school-programs)
+- 🔭 I’m currently working on [my personal portfolio website](https://shash-b.github.io)
 
 - 🌱 I’m currently learning web development
 <!-- - 👯 I’m looking to collaborate on ...
