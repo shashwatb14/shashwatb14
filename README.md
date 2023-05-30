@@ -36,7 +36,7 @@
 
 ---
 
-- 🔭 I’m currently working on [Java](https://github.com/shash-b/java-school-programs)
+- 🔭 I’m currently working on [my personal portfolio website](https://shash-b.github.io)
 
 - 🌱 I’m currently learning web development
 <!-- - 👯 I’m looking to collaborate on ...
@@ -57,6 +57,7 @@
     <a href="https://linkedin.com/in/shashwatbhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashwatbhandari" height="30" width="40" /></a>
     <a href="https://www.youtube.com/c/shashwatb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shashwatb" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/novas004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="novas004" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/novas004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="novas004" height="30" width="40" /></a>
 </p>
 
 ---
