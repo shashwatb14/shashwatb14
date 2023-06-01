@@ -1,5 +1,5 @@
 <!--
-    **shash-b/shash-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    **shashwatb14/shashwatb14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
     
     Here are some ideas to get you started:
     
@@ -20,23 +20,23 @@
 <br>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shash-b&background=030D22&border=FF2E97&stroke=FF2E97&ring=0EF3FF&fire=FFD400&currStreakNum=FFD400&sideNums=FFD400&currStreakLabel=FF2E97&sideLabels=FF2E97&dates=0EF3FF" alt="Streak Stats">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=shashwatb14&background=030D22&border=FF2E97&stroke=FF2E97&ring=0EF3FF&fire=FFD400&currStreakNum=FFD400&sideNums=FFD400&currStreakLabel=FF2E97&sideLabels=FF2E97&dates=0EF3FF" alt="Streak Stats">
 <br><br>
-<img src="https://github-readme-stats-shash-b.vercel.app/api?username=shash-b&show_icons=true&count_private=true&bg_color=030d22&title_color=ff2e97&icon_color=0ef3ff&text_color=ffd400&border_color=ff2e97&hide=issues" alt="Shashwat's Github Stats" width="59.5%">
-<img src="https://github-readme-stats-shash-b.vercel.app/api/top-langs?username=shash-b&show_icons=true&bg_color=030d22&title_color=ff2e97&icon_color=0ef3ff&text_color=ffd400&border_color=ff2e97&layout=compact&langs_count=5&hide=html" alt="Most Used Languages" width="39.5%">
+<img src="https://github-readme-stats-shashwatb14.vercel.app/api?username=shashwatb14&show_icons=true&count_private=true&bg_color=030d22&title_color=ff2e97&icon_color=0ef3ff&text_color=ffd400&border_color=ff2e97&hide=issues" alt="Shashwat's Github Stats" width="59.5%">
+<img src="https://github-readme-stats-shashwatb14.vercel.app/api/top-langs?username=shashwatb14&show_icons=true&bg_color=030d22&title_color=ff2e97&icon_color=0ef3ff&text_color=ffd400&border_color=ff2e97&layout=compact&langs_count=5&hide=html" alt="Most Used Languages" width="39.5%">
 <br><br>
 </p>
 
 <p><h3 align="center">Best repositories</h3></p>
 
 <p align="center">
-<a href="https://github.com/shash-b/TaskTastic"> <img src="https://github-readme-stats-shash-b.vercel.app/api/pin/?username=shash-b&repo=TaskTastic&show_icons=true&bg_color=030d22&title_color=ff2e97&icon_color=0ef3ff&text_color=ffd400&border_color=ff2e97&show_owner=true" alt="TaskTastic" width="49.5%"> </a>
-<a href="https://github.com/shash-b/web50-search"> <img src="https://github-readme-stats-shash-b.vercel.app/api/pin/?username=shash-b&repo=web50-search&show_icons=true&bg_color=030d22&title_color=ff2e97&icon_color=0ef3ff&text_color=ffd400&border_color=ff2e97&show_owner=true" alt="web50-search" width="49.5%"> </a>
+<a href="https://github.com/shashwatb14/TaskTastic"> <img src="https://github-readme-stats-shashwatb14.vercel.app/api/pin/?username=shashwatb14&repo=TaskTastic&show_icons=true&bg_color=030d22&title_color=ff2e97&icon_color=0ef3ff&text_color=ffd400&border_color=ff2e97&show_owner=true" alt="TaskTastic" width="49.5%"> </a>
+<a href="https://github.com/shashwatb14/web50-search"> <img src="https://github-readme-stats-shashwatb14.vercel.app/api/pin/?username=shashwatb14&repo=web50-search&show_icons=true&bg_color=030d22&title_color=ff2e97&icon_color=0ef3ff&text_color=ffd400&border_color=ff2e97&show_owner=true" alt="web50-search" width="49.5%"> </a>
 </p>
 
 ---
 
-- 🔭 I’m currently working on [my personal portfolio website](https://shash-b.github.io)
+- 🔭 I’m currently working on [my personal portfolio website](https://shashwatb14.github.io)
 
 - 🌱 I’m currently learning web development
 <!-- - 👯 I’m looking to collaborate on ...
@@ -48,7 +48,7 @@
 
 - ⚡ Fun fact: I'm a drummer!
 
-- 👨‍💻 All of my projects are available at [my personal portfolio website](https://shash-b.github.io/projects.html)
+- 👨‍💻 All of my projects are available at [my personal portfolio website](https://shashwatb14.github.io/projects.html)
 
 ---
 
