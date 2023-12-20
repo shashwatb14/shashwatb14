@@ -36,7 +36,7 @@
 
 ---
 
-- 🔭 I’m currently working on [my personal portfolio website](https://shashwatb14.github.io)
+- 🔭 I’m currently working on [my Computer Science Internal Assessment]([https://shashwatb14.github.io](https://github.com/shashwatb14/CS-IA))
 
 - 🌱 I’m currently learning web development
 <!-- - 👯 I’m looking to collaborate on ...
