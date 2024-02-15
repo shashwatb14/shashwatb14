@@ -27,16 +27,17 @@
 <br><br>
 </p>
 
-<p><h3 align="center">Best repositories</h3></p>
+<p><h3 align="center">Favorite repositories</h3></p>
 
 <p align="center">
 <a href="https://github.com/shashwatb14/TaskTastic"> <img src="https://github-readme-stats-shash-b.vercel.app/api/pin/?username=shashwatb14&repo=TaskTastic&show_icons=true&bg_color=030d22&title_color=ff2e97&icon_color=0ef3ff&text_color=ffd400&border_color=ff2e97&show_owner=true" alt="TaskTastic" width="49.5%"> </a>
 <a href="https://github.com/shashwatb14/web50-search"> <img src="https://github-readme-stats-shash-b.vercel.app/api/pin/?username=shashwatb14&repo=web50-search&show_icons=true&bg_color=030d22&title_color=ff2e97&icon_color=0ef3ff&text_color=ffd400&border_color=ff2e97&show_owner=true" alt="web50-search" width="49.5%"> </a>
+<a href="https://github.com/shashwatb14/CS-IA"> <img src="https://github-readme-stats-shash-b.vercel.app/api/pin/?username=shashwatb14&repo=CS-IA&show_icons=true&bg_color=030d22&title_color=ff2e97&icon_color=0ef3ff&text_color=ffd400&border_color=ff2e97&show_owner=true" alt="CS-IA" width="49.5%"> </a>
 </p>
 
 ---
 
-- 🔭 I’m currently working on [my Computer Science Internal Assessment](https://github.com/shashwatb14/CS-IA)
+- 🔭 I’m currently working on [an extension of my Computer Science Internal Assessment](https://github.com/shashwatb14/note-taker)
 
 - 🌱 I’m currently learning web development
 <!-- - 👯 I’m looking to collaborate on ...
